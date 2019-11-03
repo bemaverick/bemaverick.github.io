@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bemaverick/static/css/main.ba7f6d56.chunk.css",
+    "main.js": "/bemaverick/static/js/main.51938ad6.chunk.js",
+    "main.js.map": "/bemaverick/static/js/main.51938ad6.chunk.js.map",
+    "runtime-main.js": "/bemaverick/static/js/runtime-main.3db67b04.js",
+    "runtime-main.js.map": "/bemaverick/static/js/runtime-main.3db67b04.js.map",
+    "static/css/2.fb64e31e.chunk.css": "/bemaverick/static/css/2.fb64e31e.chunk.css",
+    "static/js/2.f750505c.chunk.js": "/bemaverick/static/js/2.f750505c.chunk.js",
+    "static/js/2.f750505c.chunk.js.map": "/bemaverick/static/js/2.f750505c.chunk.js.map",
+    "index.html": "/bemaverick/index.html",
+    "precache-manifest.b89dcb11dbd832230a4175d148f4bc57.js": "/bemaverick/precache-manifest.b89dcb11dbd832230a4175d148f4bc57.js",
+    "service-worker.js": "/bemaverick/service-worker.js",
+    "static/css/2.fb64e31e.chunk.css.map": "/bemaverick/static/css/2.fb64e31e.chunk.css.map",
+    "static/css/main.ba7f6d56.chunk.css.map": "/bemaverick/static/css/main.ba7f6d56.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db67b04.js",
+    "static/css/2.fb64e31e.chunk.css",
+    "static/js/2.f750505c.chunk.js",
+    "static/css/main.ba7f6d56.chunk.css",
+    "static/js/main.51938ad6.chunk.js"
+  ]
+}
