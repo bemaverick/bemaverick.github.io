@@ -2,7 +2,7 @@
   "name": "firebase-chat-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bemaverick.github.io/armCompetition",
+  "homepage": "https://bemaverick.github.io/bemaverick",
   "dependencies": {
     "firebase": "^7.2.3",
     "react": "^16.11.0",
