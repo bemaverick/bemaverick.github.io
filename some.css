@@ -10,14 +10,12 @@
   background-position: center;
   background-repeat: no-repeat;
 }
-
-.pliant-pci-widget {
-  background: none;
+.pliant-field-expiry-value-text {
+  font-size: 3px;
+  font-color: 'green';
 }
 
-.pliant-preloaded-data-overlay {
-  background: none;
-}
+
 
 .pliant-expiry-cvv-result {
   margin-top: 2.797vh; /** 12/316*100 **/
