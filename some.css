@@ -1,0 +1,31 @@
+/* This file is required for Pliant widget in the mobile app */
+
+.wrapper {
+  width: 350px;
+  height: 200px;
+  border: 2px solid transparent;
+  background-color: transparent;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.pliant-pci-widget {
+  background: none;
+}
+
+.pliant-preloaded-data-overlay {
+  background: none;
+}
+
+.pliant-expiry-cvv-result {
+  margin-top: 2.797vh; /** 12/316*100 **/
+}
+
+.pliant-field-value {
+  color: rgba(255, 255, 255, 1);
+}
+
+.pliant-field-name {
+  color: rgba(255, 255, 255, 1);
+}
