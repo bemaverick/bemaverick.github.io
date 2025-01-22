@@ -12,9 +12,13 @@
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
   font-size: 3px !important;
-  font-color: 'green' !important;
+  color: 'green' !important;
 }
-
+.pliant-field-value > .pliant-field-pan-value-text {
+  font-size: 10px !important;
+  color: 'green' !important;
+}
+  
 
 
 .pliant-expiry-cvv-result {
