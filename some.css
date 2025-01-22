@@ -1,7 +1,7 @@
 /* This file is required for Pliant widget in the mobile app */
 
 .wrapper {
-  width: 350px;
+  width: 200px;
   height: 200px;
   /* This is a single-line comment */
 
@@ -12,11 +12,11 @@
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
   font-size: 3px !important;
-  color: 'green' !important;
+  color: green !important;
 }
 .pliant-field-value > .pliant-field-pan-value-text {
   font-size: 10px !important;
-  color: 'green' !important;
+  color: green !important;
 }
   
 
