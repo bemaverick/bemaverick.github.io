@@ -3,7 +3,7 @@
 .wrapper {
   width: 350px;
   height: 200px;
-  border: 2px solid transparent;
+  border: 2px solid blue;
   background-color: transparent;
   background-size: contain;
   background-position: center;
@@ -12,20 +12,14 @@
 
 .pliant-pci-widget {
   background: none;
+  border: 2px solid green;
 }
 
 .pliant-preloaded-data-overlay {
   background: none;
+    border: 2px solid yellow;
 }
 
 .pliant-expiry-cvv-result {
   margin-top: 2.797vh; /** 12/316*100 **/
-}
-
-.pliant-field-value {
-  color: rgba(255, 255, 255, 1);
-}
-
-.pliant-field-name {
-  color: rgba(255, 255, 255, 1);
 }
