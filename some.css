@@ -3,7 +3,8 @@
 .wrapper {
   width: 350px;
   height: 200px;
-  border: 2px solid blue;
+  /* This is a single-line comment */
+
   background-color: transparent;
   background-size: contain;
   background-position: center;
@@ -12,12 +13,10 @@
 
 .pliant-pci-widget {
   background: none;
-  border: 2px solid green;
 }
 
 .pliant-preloaded-data-overlay {
   background: none;
-    border: 2px solid yellow;
 }
 
 .pliant-expiry-cvv-result {
