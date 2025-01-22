@@ -5,14 +5,14 @@
   height: 200px;
   /* This is a single-line comment */
 
-  background-color: transparent;
-  background-size: contain;
+  background-color: green;
+/*   background-size: contain;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
-.pliant-field-expiry-value-text {
-  font-size: 3px;
-  font-color: 'green';
+.pliant-field-value > .pliant-field-expiry-value-text {
+  font-size: 3px !important;
+  font-color: 'green' !important;
 }
 
 
