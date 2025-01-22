@@ -2,7 +2,9 @@
 
 .wrapper {
   width: 200px;
-  height: 200px;
+  padding-left: 0px;
+  padding-right: 0px;
+/*   height: 200px; */
   /* This is a single-line comment */
 
   background-color: green;
@@ -11,16 +13,16 @@
   background-repeat: no-repeat; */
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
-  font-size: 3px !important;
-  color: green !important;
+/*   font-size: 3px !important; */
+/*   color: green !important; */
 }
 .pliant-field-value > .pliant-field-pan-value-text {
-  font-size: 10px !important;
+  font-size: 12px !important;
   color: green !important;
 }
   
 
 
-.pliant-expiry-cvv-result {
+/* .pliant-expiry-cvv-result {
   margin-top: 2.797vh; /** 12/316*100 **/
-}
+} */
