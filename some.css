@@ -7,17 +7,17 @@
 /*   height: 200px; */
   /* This is a single-line comment */
 
-  background-color: green;
+  background-color: transparent;
 /*   background-size: contain;
   background-position: center;
   background-repeat: no-repeat; */
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
-/*   font-size: 3px !important; */
+  font-size: 13px !important;
 /*   color: green !important; */
 }
 .pliant-field-value > .pliant-field-pan-value-text {
-  font-size: 12px !important;
+  font-size: 12.5px !important;
 /*   color: green !important; */
 }
   
