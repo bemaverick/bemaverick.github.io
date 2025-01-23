@@ -14,23 +14,28 @@
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
 /*   font-size: 13px !important; */
-/*   padding-left: 0;
-  margin-left: 0; */
+    padding-left: 0;
+    margin-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
 /*   color: green !important; */
 }
 .pliant-field-value > .pliant-field-pan-value-text {
-  font-size: 12.5px !important;
-  letter-spacing: 0.2px;
+  font-size: 12px !important;
+/*   letter-spacing: 0.2px; */
 /*   color: green !important; */
 }
 
 .pliant-pci-widget {
   background: none;
-/*   border: 2px solid blue; */
+  border: 2px solid blue;
 /*   padding-left: 0;
   padding-right: 0;
   margin-right: 0;
   margin-left: 0; */
+  
 }
 
 .pliant-preloaded-data-overlay {
