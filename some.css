@@ -19,7 +19,8 @@
 /*   color: green !important; */
 }
 .pliant-field-value > .pliant-field-pan-value-text {
-  font-size: 12px !important;
+  font-size: 13px !important;
+  letter-spacing: 0.3px;
   color: green !important;
 }
 
