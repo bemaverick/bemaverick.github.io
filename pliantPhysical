@@ -1,0 +1,35 @@
+/* This file is required for Pliant widget in the mobile app */
+
+.wrapper {
+  width: 200px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: transparent;
+}
+.pliant-field-value > .pliant-field-pan-value-text {
+  font-size: 12px !important;
+}
+
+.pliant-pci-widget {
+  background: none;
+}
+
+.pliant-preloaded-data-overlay {
+  background: none;
+}
+.pliant-pan-result {
+  padding-left: 0;
+  padding-right: 0;
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.pliant-field-value {
+  color: rgba(255, 255, 255, 1);
+}
+
+.pliant-field-name {
+  color: rgba(255, 255, 255, 1);
+}
