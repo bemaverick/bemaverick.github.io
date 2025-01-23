@@ -13,20 +13,22 @@
   background-repeat: no-repeat; */
 }
 .pliant-field-value > .pliant-field-expiry-value-text {
-  font-size: 13px !important;
-  padding-left: 0;
-  margin-left: 0;
+/*   font-size: 13px !important; */
+/*   padding-left: 0;
+  margin-left: 0; */
 /*   color: green !important; */
 }
 .pliant-field-value > .pliant-field-pan-value-text {
-  font-size: 12.5px !important;
-/*   color: green !important; */
+/*   font-size: 12.5px !important; */
+  color: green !important;
 }
 
 .pliant-pci-widget {
   background: yellow;
   border: 2px solid blue;
   padding-left: 0;
+  padding-right: 0;
+  margin-right: 0;
   margin-left: 0;
 }
 
